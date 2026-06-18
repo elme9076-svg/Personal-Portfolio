@@ -70,7 +70,7 @@ nav{
     );
 }
 
-.hero-content{
+.humble hero-content{
     max-width:1200px;
     display:grid;
     grid-template-columns:1fr 1fr;
@@ -78,7 +78,7 @@ nav{
     gap:50px;
 }
 
-.hero-text h3{
+.humble hero-text h3{
     color:var(--primary);
     margin-bottom:10px;
 }
